@@ -10,9 +10,6 @@ public class Hello {
         System.out.println(y);
 
         boolean z = y == 0.00 ? true : false;
-
-
-
         System.out.println(z);
     }
 }
